@@ -41,7 +41,7 @@ In short, most orders arrive well before the promised date. The problem is a sma
 | `docs/` | BRD, Requirements Specification, Process Analysis, Insights and Recommendations (PDF) |
 | `diagrams/` | AS-IS process, TO-BE process and activity diagram (image files and editable draw.io files) |
 | `sql/` | Four SQL files: build the model, check it, answer the business questions, find where the delay comes from |
-| `excel/` | Excel workbook with the Power Query model, pivot tables and Excel dashboard |
+| Releases (right side of this page) | Full Excel workbook with the Power Query model, pivot tables and Excel dashboard (88 MB, too large for the folders) |
 | `powerbi/` | Power BI file and a PDF export of the dashboard |
 | `screenshots/` | Dashboard images |
 
