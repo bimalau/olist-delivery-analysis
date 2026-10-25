@@ -41,7 +41,7 @@ In short, most orders arrive well before the promised date. The problem is a sma
 | `docs/` | BRD, Requirements Specification, Process Analysis, Insights and Recommendations (PDF) |
 | `diagrams/` | AS-IS process, TO-BE process and activity diagram (image files and editable draw.io files) |
 | `sql/` | Four SQL files: build the model, check it, answer the business questions, find where the delay comes from |
-| Releases (right side of this page) | Full Excel workbook with the Power Query model, pivot tables and Excel dashboard (88 MB, too large for the folders) |
+| `excel/` | Excel workbook with the Power Query model, pivot tables and Excel dashboard |
 | `powerbi/` | Power BI file and a PDF export of the dashboard |
 | `screenshots/` | Dashboard images |
 
@@ -76,7 +76,9 @@ Section 8 of the Requirements Specification lists these gaps in full. Product ca
 
 ## How I used AI
 
-I used Claude, an AI assistant, as a helper throughout this project. It explained methods I was learning, helped me structure and word the documents, and helped me check my numbers and SQL. I did the analysis, built the Excel model and the Power BI dashboard, and drew the three diagrams myself in draw.io. Every number in this project was checked against the data.
+This project was prepared with the assistance of Claude, an AI assistant from Anthropic. Claude made the documentation process smoother by suggesting the industry-standard structure for the documents, helping with the wording, and checking that the numbers match across the Excel, SQL and Power BI work. It also answered my questions and pointed out my mistakes.
+
+The data analysis in Excel, SQL and Power BI, the dashboard and the three diagrams (drawn in draw.io) were done by me. Claude helped me with some of the SQL queries, which I ran and checked against my Excel results. Every number in this project was checked against the data.
 
 ## Data and licence
 
