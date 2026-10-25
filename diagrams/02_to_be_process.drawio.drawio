@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Op4nLMKAVSXhloEVskiM">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-AaIHdBINN94TikzCnOq-9" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;roundedPerimeter=1;" value="Start: month ends" vertex="1">
+          <mxGeometry height="110" width="183.33" x="470" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-10" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-3" parent="1" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;roundedPerimeter=1;" value="Refresh source data and run data checks (Data and BI Team)" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999998" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-3" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ey_mjR87rNU6mk1R3WWR-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;roundedPerimeter=1;" value="Publish the dashboard (Data and BI Team)" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999997" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-13" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-5" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#60a917;rounded=1;roundedPerimeter=1;fillStyle=solid;fontColor=#ffffff;strokeColor=#2D7600;" value="Follow up with sellers above the late-rate threshold (Seller Management Lead)" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999997" y="973.34" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-14" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-AaIHdBINN94TikzCnOq-1" value="">
+          <mxGeometry relative="1" x="-0.7975" as="geometry">
+            <Array as="points">
+              <mxPoint x="156.7" y="1385" />
+              <mxPoint x="156.7" y="145" />
+            </Array>
+            <mxPoint x="400" y="1400" as="sourcePoint" />
+            <mxPoint x="506.67" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-15" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="-0.4001" as="geometry">
+            <Array as="points">
+              <mxPoint x="561.7" y="1390" />
+            </Array>
+            <mxPoint x="550" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-6" parent="1" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;roundedPerimeter=1;" value="Record actions and outcomes" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999997" y="1339.16" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-12" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="-AaIHdBINN94TikzCnOq-5" value="">
+          <mxGeometry relative="1" x="0.2519" as="geometry">
+            <mxPoint x="561.6649999999995" y="906.6700000000004" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-15" connectable="0" parent="-AaIHdBINN94TikzCnOq-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;rounded=1;roundedPerimeter=1;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="0.2074" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-18" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ey_mjR87rNU6mk1R3WWR-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469.99999999999955" y="815.0400000000003" as="sourcePoint" />
+            <mxPoint x="1081.6999999999998" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-19" connectable="0" parent="-AaIHdBINN94TikzCnOq-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;rounded=1;roundedPerimeter=1;" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.3191" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;roundedPerimeter=1;" value="Late rate above the 5% target?" vertex="1">
+          <mxGeometry height="183.33" width="183.33" x="470" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-35" parent="1" style="strokeWidth=0;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=none;mainText=;rounded=1;roundedPerimeter=1;" value="TO-BE process: monthly delivery review loop" vertex="1">
+          <mxGeometry height="100" width="350.01" x="653.33" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-4" edge="1" parent="1" source="ey_mjR87rNU6mk1R3WWR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-2" parent="1" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;roundedPerimeter=1;" value="Review monthly delivery performance (Head of Operations)" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999998" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-14" edge="1" parent="1" source="ey_mjR87rNU6mk1R3WWR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="0.0064" as="geometry">
+            <Array as="points">
+              <mxPoint x="311.7" y="1290" />
+              <mxPoint x="470" y="1290" />
+            </Array>
+            <mxPoint x="561.67" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-6" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#60a917;rounded=1;roundedPerimeter=1;fillStyle=solid;fontColor=#ffffff;strokeColor=#2D7600;" value="Investigate regions and carriers (Logistics Partner Manager)" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="219.99999999999972" y="973.34" as="geometry" />
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-13" edge="1" parent="1" source="ey_mjR87rNU6mk1R3WWR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="811.7" y="1290" />
+            </Array>
+            <mxPoint x="561.67" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-7" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#60a917;fillStyle=solid;rounded=1;roundedPerimeter=1;fontColor=#ffffff;strokeColor=#2D7600;" value="Review customer impact of severely late orders (Customer Experience Manager)" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="719.9999999999998" y="973.34" as="geometry" />
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-9" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="ey_mjR87rNU6mk1R3WWR-6" value="">
+          <mxGeometry relative="1" x="0.2516" as="geometry">
+            <mxPoint x="450.33" y="869.67" as="sourcePoint" />
+            <mxPoint x="450.33" y="959.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-10" connectable="0" parent="ey_mjR87rNU6mk1R3WWR-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;rounded=1;roundedPerimeter=1;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="0.2064" y="-2" as="geometry">
+            <mxPoint x="-90" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-11" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="ey_mjR87rNU6mk1R3WWR-7" value="">
+          <mxGeometry relative="1" x="0.8292" as="geometry">
+            <mxPoint x="780" y="890" as="sourcePoint" />
+            <mxPoint x="620.33" y="959.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-12" connectable="0" parent="ey_mjR87rNU6mk1R3WWR-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;rounded=1;roundedPerimeter=1;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="0.8174" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-19" edge="1" parent="1" source="ey_mjR87rNU6mk1R3WWR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-AaIHdBINN94TikzCnOq-1">
+          <mxGeometry relative="1" x="0.0001" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="1385.1" />
+              <mxPoint x="1340" y="145" />
+            </Array>
+            <mxPoint x="930" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-18" parent="1" style="html=1;dashed=0;whiteSpace=wrap;rounded=1;roundedPerimeter=1;" value="No action needed this month" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="959.9999999999998" y="1339.16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
