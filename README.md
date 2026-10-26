@@ -41,7 +41,8 @@ In short, most orders arrive well before the promised date. The problem is a sma
 | `docs/` | BRD, Requirements Specification, Process Analysis, Insights and Recommendations (PDF) |
 | `diagrams/` | AS-IS process, TO-BE process and activity diagram (image files and editable draw.io files) |
 | `sql/` | Four SQL files: build the model, check it, answer the business questions, find where the delay comes from |
-| `excel/` | Excel workbook with the Power Query model, pivot tables and Excel dashboard |
+| `excel/` | Screenshots of the Excel dashboard and pivot tables |
+| Releases (right side of this page) | Full Excel workbook with the Power Query model, pivot tables and Excel dashboard (88 MB, too large for the folders) |
 | `powerbi/` | Power BI file and a PDF export of the dashboard |
 | `screenshots/` | Dashboard images |
 
@@ -64,7 +65,8 @@ Not everything in the requirements was built. These are not on the dashboard:
 - Delivery performance by product category, and a category filter
 - Median and 90th-percentile delivery time (the dashboard shows the average only)
 - A reference line for the overall late rate on the monthly chart
-- The seller ranking (it is in the SQL analysis only)
+- The seller ranking (it is in the Excel workbook and the SQL analysis)
+- Orders and revenue by month (total revenue and freight are checked in SQL only)
 
 Section 8 of the Requirements Specification lists these gaps in full. Product category would be the first addition in a next version.
 
