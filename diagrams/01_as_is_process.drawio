@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Op4nLMKAVSXhloEVskiM">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-AaIHdBINN94TikzCnOq-9" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Start" vertex="1">
+          <mxGeometry height="110" width="183.33" x="470" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-10" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-34" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;" target="-AaIHdBINN94TikzCnOq-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="275.8" />
+              <mxPoint x="110" y="1465.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ey_mjR87rNU6mk1R3WWR-1" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;" target="-AaIHdBINN94TikzCnOq-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-3" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Customer places the order and gets a promised delivery date" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999998" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-11" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-4" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Payment is approved" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999997" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-13" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-26" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;" target="-AaIHdBINN94TikzCnOq-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-5" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Seller hands the order to the carrier" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999997" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-14" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-31" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;" target="-AaIHdBINN94TikzCnOq-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-33" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;" target="-AaIHdBINN94TikzCnOq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-6" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Carrier delivers the order to the customer" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999997" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-21" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-7" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Customer receives a survey and may leave a score from 1 to 5" vertex="1">
+          <mxGeometry height="91.67" width="183.33" x="469.9999999999997" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-12" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-15" connectable="0" parent="-AaIHdBINN94TikzCnOq-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.0647" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-18" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="-AaIHdBINN94TikzCnOq-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-19" connectable="0" parent="-AaIHdBINN94TikzCnOq-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="YES" vertex="1">
+          <mxGeometry relative="1" x="-0.334" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Canceled or unavailable?" vertex="1">
+          <mxGeometry height="183.33" width="183.33" x="470" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-17" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="End: order not delivered" vertex="1">
+          <mxGeometry height="110" width="183.33" x="150" y="556.66" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-20" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="End: order complete" vertex="1">
+          <mxGeometry height="110" width="183.33" x="470" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="PP-06: promised date looks inflated (23.74 days promised, 12.56 actual)" vertex="1">
+          <mxGeometry height="91.67" width="183.34" x="710" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="PP-05: some timestamps are out of order (1,359 orders)" vertex="1">
+          <mxGeometry height="91.67" width="183.34" x="710" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="PP-02: 8.1% arrive late.&amp;nbsp;&lt;div&gt;PP-03: peaks in Nov 2017, Feb and Mar 2018&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91.67" width="183.34" x="710" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="PP-04: late orders score 2.57 vs 4.29.&lt;div&gt;PP-07: 646 delivered orders have no score&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91.67" width="183.34" x="710" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-30" edge="1" parent="1" source="-AaIHdBINN94TikzCnOq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="-AaIHdBINN94TikzCnOq-25" value="">
+          <mxGeometry relative="1" x="-0.2114" as="geometry">
+            <mxPoint x="653.33" y="1100" as="sourcePoint" />
+            <mxPoint x="700.33" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=light-dark(#C73500,#CC0000);dashed=1;" value="PP-01 (assumed): no step compares the delivery date with the promised date" vertex="1">
+          <mxGeometry height="91.67" width="183.34" x="469.99" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="-AaIHdBINN94TikzCnOq-35" parent="1" style="strokeWidth=0;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=none;mainText=" value="AS-IS process: order journey and pain points" vertex="1">
+          <mxGeometry height="100" width="350.01" x="386.66" y="-70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
